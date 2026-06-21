@@ -1,3 +1,6 @@
 # Simple-Calculator
 This is my first Git Repository
+<br>
 Author is Shraddha Didi from microsoft
+<br>
+trying to re-structure README.MD through line by line script
